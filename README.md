@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/91po/91app"><img src="https://github.com/91po/91porn/blob/main/screenshot.PNG"></a>
+    <a href="https://github.com/91po/91app"><img src="https://github.com/91po/91app/blob/main/screenshot.PNG"></a>
 </p>
 
   
